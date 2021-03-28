@@ -1,11 +1,9 @@
 fileFormatVersion: 2
-guid: 7d8b3648effe24c40b3f13b70fea4998
+guid: 676862e175e532048a38f8a031c2c17b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - myAudioClip: {fileID: 8300000, guid: efec84a986cd8a84291133de18c5875a, type: 3}
-  - AudioSource: {instanceID: 0}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
